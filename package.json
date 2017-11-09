@@ -1,0 +1,24 @@
+{
+  "name": "lyte-travel",
+  "version": "1.0.0",
+  "description": "A Simple and Fun Travel Review Share Site",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pllearns/lyte-travel.git"
+  },
+  "author": "Phillip Lorenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pllearns/lyte-travel/issues"
+  },
+  "homepage": "https://github.com/pllearns/lyte-travel#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
